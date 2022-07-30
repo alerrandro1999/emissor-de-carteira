@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/14 12:20:08.000.698,=C:\Users\alerr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/19 08:48:43.000.908,=C:\Users\alerr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/19 08:49:33.000.893,C:\Users\alerr\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Relatorio\UnitRelatorio.pas</Transaction>
+    <Transaction>2021/08/19 08:49:33.000.893,C:\Users\alerr\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Relatorio\UnitRelatorio.dfm</Transaction>
+    <Transaction>2021/08/19 08:49:44.000.948,C:\Users\alerr\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Relatorio\ProjetoRelatorio.dproj</Transaction>
+    <Transaction>2021/08/25 16:08:51.000.849,=C:\Relatorio\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 16:09:02.000.971,=C:\Relatorio\Unit2.pas</Transaction>
+    <Transaction>2021/08/26 16:12:44.000.683,=C:\Relatorio\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 16:13:09.000.518,C:\Relatorio\UnitData.dfm=C:\Relatorio\Unit1.dfm</Transaction>
+    <Transaction>2021/08/26 16:13:09.000.518,C:\Relatorio\UnitData.pas=C:\Relatorio\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
